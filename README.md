@@ -1,5 +1,5 @@
-# 19T3_COMP9444
-Neural Network and Deep Learning
+# COMP9444
+Neural Network and Deep Learning 19 T3
 
 Personal assignments collection for COMP9444. Complying with UNSW Policy on Academic Honesty and Plagiarism, the assignments are always uploaded at least seven days after the deadline.
 
